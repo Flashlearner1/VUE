@@ -1,0 +1,24 @@
+main{
+    background-color: aliceblue;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    background: green;
+    padding: 15px 15px 15px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 5px;
+    border-radius: 25px;
+}
+#count{
+    color: blue;
+    font-size: 50;
+}
+main h4{
+    font-size: 50;
+}
